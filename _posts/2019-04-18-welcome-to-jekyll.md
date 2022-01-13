@@ -20,8 +20,6 @@ gallery:
     image_path: /assets/images/4.jpg
     title: "Image 4 title caption"
 tagline: "WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE."
-#header:
-#  overlay_image: /assets/images/1.jpg
 header:
   video:
     id: XsxDH4HcOWA
