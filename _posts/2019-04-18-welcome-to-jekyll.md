@@ -21,7 +21,7 @@ gallery:
     title: "Image 4 title caption"
 tagline: "WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE."
 header:
-  overlay_image: /assets/images/1.jpg
+  overlay_image: /assets/images/6.jpg
 ---
 
 Gallery 
