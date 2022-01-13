@@ -8,8 +8,8 @@ classes:
 header:
 #	  overlay_image: /assets/images/2.jpg
   video:
-    id: 212731897
-    provider: vimeo
+    id: HexFFkZMM9g
+    provider: youtube
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
