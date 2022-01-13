@@ -21,9 +21,7 @@ gallery:
     title: "Image 4 title caption"
 tagline: "WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE."
 header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
+  overlay_image: /assets/images/1.jpg
 ---
 
 Gallery 
