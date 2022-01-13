@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome to WALDKINDERGRUPPE!"
+layout: splash
 header:
   overlay_image: /assets/images/2.jpg
 gallery:
