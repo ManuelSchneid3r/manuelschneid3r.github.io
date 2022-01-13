@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Manuel Schneider"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Super bio text blabla"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
