@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to WALDKINDERGRUPPE!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -7,26 +7,24 @@ tags:
   - Jekyll
   - update
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/1.jpg
+    image_path: /assets/images/1.jpg
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - url: /assets/images/2.jpg
+    image_path: /assets/images/2.jpg
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/3.jpg
+    image_path: /assets/images/3.jpg
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
+  - url: /assets/images/4.jpg
+    image_path: /assets/images/4.jpg
     title: "Image 4 title caption"
-tagline: "This is a custom WALDKINDERGARTEN tagline content which overrides the default page excerpt."
+tagline: "WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE."
 header:
   overlay_image: /assets/images/1.jpg
 ---
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 Jekyll also offers powerful support for code snippets:
 
