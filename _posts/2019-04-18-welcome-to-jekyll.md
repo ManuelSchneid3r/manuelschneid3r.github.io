@@ -20,11 +20,19 @@ gallery:
     image_path: /assets/images/4.jpg
     title: "Image 4 title caption"
 tagline: "WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE WALDKINDERGRUPPE."
-header:
-  overlay_image: /assets/images/1.jpg
+#header:
+#  overlay_image: /assets/images/1.jpg
 ---
 
+Gallery 
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+Video
+
+
+{% include video id="aCyB3ZngbLk" provider="youtube" %}
+
 
 Jekyll also offers powerful support for code snippets:
 
