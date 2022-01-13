@@ -3,7 +3,10 @@ permalink: /
 title: "Welcome to WALDKINDERGRUPPE!"
 layout: splash
 header:
-  overlay_image: /assets/images/2.jpg
+#  overlay_image: /assets/images/2.jpg
+  video:
+    id: 212731897
+    provider: vimeo
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
